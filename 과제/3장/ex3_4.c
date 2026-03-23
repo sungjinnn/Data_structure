@@ -1,7 +1,7 @@
 //메인 소스파일
 
 #include <stdio.h>
-#include "listS.h" //listS.h를 참조함
+#include "listS.h" //listS.c의 함수를 선언함
 
 int main(void) {
 	int list[MAX] = { 10, 20, 40, 50, 60, 70 };
